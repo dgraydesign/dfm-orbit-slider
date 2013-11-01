@@ -27,10 +27,11 @@ Captions: If captions are desired, insert the shortcode [orbitcaption]your capti
 Example markup with responsive size option:
 
 [orbitslider][orbitslidercontent columns="md-8"]
+<code>
 <ul data-orbit="">
 	<li><img class="alignnone size-full wp-image-67" alt="slide1" src="http://yourdomain.com/image1-path.jpg" width="645" height="363" />[orbitcaption]Caption1[/orbitcaption]</li>
 	<li><img class="alignnone size-full wp-image-35" alt="slide2" src="http://yourdomain.com/image2-path.jpg" width="645" height="363" />[orbitcaption]Caption2[/orbitcaption]</li>
 	<li><img class="alignnone size-full wp-image-34" alt="slide3" src="http://yourdomain.com/image3-path.jpg" width="645" height="363" />[orbitcaption]Caption3[/orbitcaption]</li>
 </ul>
 [/orbitslidercontent]
-
+</code>
